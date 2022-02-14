@@ -1,0 +1,7 @@
+### Manual Added ###
+### MacOS ###
+.DS_Store
+.DS_Store?
+
+### Unnecessaries ###
+out/
